@@ -10,3 +10,4 @@ RUN apt-get update && \
 COPY /opt/jmusicbot/config.txt
 
 CMD ["java", "-jar", "JMusicBot.jar"]
+tell
